@@ -28,3 +28,6 @@ cargo test
 
 - [Como obtener un token API de Telegram](https://core.telegram.org/bots/tutorial#obtain-your-bot-token)
 - [Que es un archivo .env y como funciona](https://kinsta.com/es/base-de-conocimiento/variables-de-entorno/)
+
+  ## Licencia
+  Este proyecto está bajo la Licencia MIT. Mirar el archivo [LICENSE](LICENSE) para mayor informacion
