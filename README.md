@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="![image](https://www.flaticon.es/icono-gratis/carpincho_3277713?term=carpincho&page=1&position=7&origin=search&related_id=3277713)
-" alt="Ejemplo de imagen" width="400">
+  <img src="doc/chiguire.png" alt="chiguibot" width="400">
 </div>
 
 <h1 align="center">ChiguiBot</h1>
